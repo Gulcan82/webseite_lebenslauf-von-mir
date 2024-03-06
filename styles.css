@@ -45,15 +45,3 @@ nav ul li a{
     padding-left: 20px;
 }
 
-/* Allgemeine Stile für Desktop-Geräte */
-
-/* Media Query für Tablets */
-@media only screen and (max-width: 1024px) {
-    /* Spezifische Stile für Tablets */
-}
-  
-  /* Media Query für Smartphones */
-@media only screen and (max-width: 768px) {
-    /* Spezifische Stile für Smartphones */
-}
-
