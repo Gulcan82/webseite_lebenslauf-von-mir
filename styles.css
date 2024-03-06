@@ -19,8 +19,9 @@ h2 {
     font-weight: lighter;
     text-transform:uppercase
     font-weight: bold;
-    background-color: grey;
+    background-color: gray;
 }
+
 
 nav ul li {
     background-color: rgb(217, 221, 208) ;
